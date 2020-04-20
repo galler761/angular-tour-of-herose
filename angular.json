@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-tour-of-herose"
+    }
+  },
+  "defaultProject": "angular-tour-of-herose",
+  "cli": {
+    "analytics": false
+  }
 }
